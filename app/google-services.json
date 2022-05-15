@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "203806584246",
-    "project_id": "newsapp-d82b1",
-    "storage_bucket": "newsapp-d82b1.appspot.com"
+    "project_number": "319354443391",
+    "project_id": "newsjava-92e01",
+    "storage_bucket": "newsjava-92e01.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:203806584246:android:003807d908f6dc2cfa6517",
+        "mobilesdk_app_id": "1:319354443391:android:c9f7024c113fac3c2c914a",
         "android_client_info": {
           "package_name": "com.example.news_app_java"
         }
       },
       "oauth_client": [
         {
-          "client_id": "203806584246-mlbm5tglhoh9ta3dvfpas80rlt8q8f75.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.news_app_java",
-            "certificate_hash": "fb9de2cfe263b58a9c58d1b528dca856981d32e9"
-          }
-        },
-        {
-          "client_id": "203806584246-8rgipt1ofkkn37prfne20gbgq8um3is0.apps.googleusercontent.com",
+          "client_id": "319354443391-1e4utsuqevm1h1cs1k06spmjgl7aqivq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAF0IbhSBq3Ief7soJ6WM8oiDTZAL3jRq4"
+          "current_key": "AIzaSyBXQAFTdocn9QYBNbmFUAR0lsRFEpDVcrg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "203806584246-8rgipt1ofkkn37prfne20gbgq8um3is0.apps.googleusercontent.com",
+              "client_id": "319354443391-1e4utsuqevm1h1cs1k06spmjgl7aqivq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
