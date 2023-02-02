@@ -107,7 +107,6 @@ public class MainActivity extends AppCompatActivity {
             try {
                 assert snapshots != null;
                 for (DocumentChange dc : snapshots.getDocumentChanges()) {
-
                     switch (dc.getType()) {
                         case ADDED:
                             newsList.add(new News().fromMap(dc.getDocument().getData(), dc.getDocument().getId()));
